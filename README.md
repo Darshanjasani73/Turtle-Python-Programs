@@ -16,23 +16,14 @@ Welcome to the Python Turtle Designs repository! This repository contains two Py
 - Description: This program draws the iconic Avengers logo using Turtle graphics. Marvel fans will enjoy watching the logo take shape on the screen.
 
 ### Simple Square Circle Design
-- File: `simple_square_circle_design.py`
+- File: `square_circle_Design.py`
 - Description: This program creates a visually pleasing design consisting of interconnected squares and circles. It's a simple yet elegant display of Turtle graphics capabilities.
 
 ## Screenshots/GIFs
-[Insert screenshots or GIFs demonstrating the designs]
+![pythonsandbox-canvas (1)](https://github.com/Darshanjasani73/Turtle-Python-Programs/assets/167104440/84e2c26f-495f-48e1-ac3d-703cf9b830fb)
+![pythonsandbox-canvas](https://github.com/Darshanjasani73/Turtle-Python-Programs/assets/167104440/8950401b-9378-45e4-a705-ac8bb9f5ea25)
 
 ## Contributing
 Contributions are welcome! If you have any ideas for improvements or new designs, feel free to open an issue or submit a pull request.
-
-## License
-This project is licensed under the [MIT License](LICENSE). Feel free to use, modify, and distribute it as per the terms of the license.
-
-## Acknowledgements
-- Special thanks to [Name] for any inspiration or guidance.
-- Credits to the Python Turtle module for enabling the creation of these designs.
-
-## Contact
-If you have any questions, suggestions, or feedback, please don't hesitate to reach out to [Your Name] at [your-email@example.com].
 
 Enjoy exploring the fascinating world of Python Turtle Designs! 🐢🎨
