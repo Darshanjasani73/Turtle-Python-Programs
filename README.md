@@ -2,6 +2,9 @@
 
 Welcome to the Python Turtle Designs repository! This repository contains two Python programs using the Turtle graphics library to create fascinating designs: the Avengers logo and a simple square-circle design. These programs are a great way to explore the capabilities of Python's Turtle module and unleash your creativity.
 
+## About Python Turtle
+Turtle is a pre-installed Python library that enables users to create pictures and shapes by providing them with a virtual canvas. The onscreen pen that you use for drawing is called the turtle and this is what gives the library its name.
+
 ## How to Run
 1. Clone the repository to your local machine.
 2. Make sure you have Python installed.
