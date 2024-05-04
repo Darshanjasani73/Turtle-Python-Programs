@@ -22,11 +22,8 @@ Turtle is a pre-installed Python library that enables users to create pictures a
 - File: `square_circle_Design.py`
 - Description: This program creates a visually pleasing design consisting of interconnected squares and circles. It's a simple yet elegant display of Turtle graphics capabilities.
 
-## Screenshots/GIFs
+## Screenshots
 ![pythonsandbox-canvas (1)](https://github.com/Darshanjasani73/Turtle-Python-Programs/assets/167104440/84e2c26f-495f-48e1-ac3d-703cf9b830fb)
 ![pythonsandbox-canvas](https://github.com/Darshanjasani73/Turtle-Python-Programs/assets/167104440/8950401b-9378-45e4-a705-ac8bb9f5ea25)
-
-## Contributing
-Contributions are welcome! If you have any ideas for improvements or new designs, feel free to open an issue or submit a pull request.
 
 Enjoy exploring the fascinating world of Python Turtle Designs! 🐢🎨
